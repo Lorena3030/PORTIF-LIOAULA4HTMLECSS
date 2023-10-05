@@ -1,0 +1,51 @@
+/*tag body*/
+body {
+    padding-top: 50px;
+}
+
+.navbar {
+    background-color:rgb(194, 125, 224);
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.jumbotron {
+    color:rgb(197, 242, 227);
+    text-align: center;
+    padding: 100px;
+}
+
+.section {
+    padding: 50px 0;
+}
+.footer {
+    background-color:rgb(153, 211, 192);
+    color:rgb(200, 231, 138);
+    text-align: center;
+    padding: 20px;
+}
+/*tag h1*/
+h1{
+    color:black;
+}
+/*tag p*/
+p{
+    color:black;
+    text-align: justify;
+}
+#paragrafo{
+
+    text-align: center;
+
+}
+#paragrafo1{
+    color:white;
+    text-align: center;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
